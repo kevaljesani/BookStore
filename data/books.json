@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "price": 399,
+    "image": "https://covers.openlibrary.org/b/id/2520429-M.jpg",
+    "description": "Atomic Habits by James Clear is a transformative guide that reveals how tiny changes can lead to remarkable results. Learn how to build good habits, break bad ones, and master the small behaviors that lead to extraordinary success."
+  },
+  {
+    "id": 2,
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "price": 299,
+    "image": "https://covers.openlibrary.org/b/id/2520430-M.jpg",
+    "description": "Rich Dad Poor Dad by Robert Kiyosaki challenges conventional wisdom about money and offers financial education lessons from two different perspectives - his real father (Poor Dad) and his best friend's father (Rich Dad)."
+  },
+  {
+    "id": 3,
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "price": 449,
+    "image": "https://covers.openlibrary.org/b/id/2520431-M.jpg",
+    "description": "The Psychology of Money explores how money moves in the modern world and how we behave around it. Learn timeless lessons on wealth, greed, and happiness through 19 short stories."
+  },
+  {
+    "id": 4,
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/2520432-M.jpg",
+    "description": "Deep Work by Cal Newport reveals how to focus without distraction on cognitively demanding tasks. Master the ability to concentrate deeply and produce valuable work in our distracted world."
+  }
+]
